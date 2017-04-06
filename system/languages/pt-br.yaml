@@ -21,7 +21,7 @@ INFLECTOR_IRREGULAR:
   man: homens
   sex: sexos
 NICETIME:
-  NO_DATE_PROVIDED: Não foi fornecida data
+  NO_DATE_PROVIDED: Nenhuma data fornecida
   BAD_DATE: Data inválida
   AGO: atrás
   FROM_NOW: a partir de agora
@@ -54,8 +54,8 @@ NICETIME:
   WK_PLURAL: sems
   YR_PLURAL: anos
 FORM:
-  VALIDATION_FAIL: '<b>Validação falhada: </b>'
-  MISSING_REQUIRED_FIELD: 'Campo obrigatório ausente:'
+  VALIDATION_FAIL: '<b>Validação falhou: </b>'
+  MISSING_REQUIRED_FIELD: 'Campo obrigatório não preenchido:'
 MONTHS_OF_THE_YEAR:
   - Janeiro
   - Fevereiro
